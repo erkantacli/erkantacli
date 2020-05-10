@@ -2,9 +2,6 @@ import matplotlib.pyplot as plt
 summe = 0
 reis = []
 
-
-
-
 for feld in range(64):
     reiskörner = 2**feld
     reis.append(reiskörner)
